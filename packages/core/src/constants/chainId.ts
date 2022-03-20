@@ -98,7 +98,7 @@ export enum ChainId {
   Localhost = 1337,
   Hardhat = 31337,
   Fantom = 250,
-  Avalanche = 43114,
+  Avalanche = 43113,
   Songbird = 19,
   MoonbaseAlpha = 1287,
   OasisEmerald = 42262,
